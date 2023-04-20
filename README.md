@@ -1,1 +1,1 @@
-# Template node and express starter
+# Template node-express-starter
